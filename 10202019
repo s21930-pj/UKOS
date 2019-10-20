@@ -2,5 +2,10 @@ Na dzisiejszych zajęciach z przedmiotu UKOS nauczyłem się że:
 -umiem używać lepiej gita
 - umiem robić maszynę wirtualną w VirtualBox
 - wiem co to jest vim 
+- w takiej maszynie wirtualnej można uruchomić osobny system operacyjny
+	np: może tobyć windows w windowsie
+	linux w windowsie
+	windows w linuxie
+	itd;
  
 
